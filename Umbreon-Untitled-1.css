@@ -28,3 +28,14 @@ h1 {
 p {
   font-family: 'Press Start 2P', cursive;
 }
+.fcc-btn {
+  font-family: 'Press Start 2P', cursive;       
+}
+.fcc-btn {
+  background-color: #fe0000;
+  border-radius: 20px;
+  color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+}
+
