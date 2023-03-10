@@ -7,6 +7,9 @@ body {
 h1 {
   text-align: center;
 }
+.fcc-btn {
+  text-align: center;
+}
 .imagen {
   position: absolute; 
   top: 100px; 
