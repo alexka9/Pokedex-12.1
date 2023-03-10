@@ -2,9 +2,8 @@ body {
   background-color: rgba(65, 45, 103, 0.827);
 }
 body {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
-
 h1 {
   text-align: center;
 }
@@ -26,5 +25,6 @@ ul {
 h1 {
   font-family: 'Press Start 2P', cursive;
 }
-
-
+p {
+  font-family: 'Press Start 2P', cursive;
+}

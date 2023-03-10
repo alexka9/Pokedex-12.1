@@ -1,0 +1,30 @@
+body {
+  background-color: rgba(65, 45, 103, 0.827);
+}
+body {
+  color: rgb(255, 255, 255);
+}
+h1 {
+  text-align: center;
+}
+.imagen {
+  position: absolute; 
+  top: 100px; 
+  left: 40px; 
+}
+img {
+  margin-top: 100px;
+}
+.vertical-text {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+}
+ul {
+  font-family: 'Press Start 2P', cursive;
+}
+h1 {
+  font-family: 'Press Start 2P', cursive;
+}
+p {
+  font-family: 'Press Start 2P', cursive;
+}
